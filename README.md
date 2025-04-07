@@ -1,6 +1,6 @@
 create new flutter app in cmd : 
 # flutter create climate_actions
-# then run copy the code from main.dart to your dart file,
+# then run copy the code from main.dart to your new main.dart file,
 # run flutter pub get to install missing dependencies. 
 # you can also run "flutter pub add __dependency_name" to install specific depedency
 run your app with:
